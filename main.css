@@ -1,0 +1,28 @@
+.input_screen{
+  width: 280px;
+  background-color: black;
+  color: white;
+  height: 27px;
+  text-align: right;
+}
+
+.btn_box{
+  width: 280px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.btn_box input{
+  width: 24%;
+}
+
+.result_clear_box{
+  width: 280px;
+  display:flex;
+  justify-content: space-between;
+}
+
+.result_clear_box input{
+  width: 49%;
+  
+}
